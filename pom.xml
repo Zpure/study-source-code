@@ -7,6 +7,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<modules>
 		<module>study-source-code-spring</module>
+		<module>study-source-code-java</module>
 	</modules>
 
 </project>
